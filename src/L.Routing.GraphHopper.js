@@ -118,6 +118,7 @@
 						totalDistance: path.distance,
 						totalTime: path.time / 1000,
 						totalAscend: path.ascend,
+						totalDescend: path.descend
 					},
 					inputWaypoints: inputWaypoints,
 					actualWaypoints: mappedWaypoints.waypoints,
